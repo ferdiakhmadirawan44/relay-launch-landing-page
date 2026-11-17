@@ -33,7 +33,7 @@ export function Nav() {
           ]}
           style={{ color: "#334155", fontSize: 15, fontWeight: 600, justifyContent: "center" }}
         />
-        <Row style={{ gap: 12, alignItems: "center", flex: "none" }}>
+        <Row style={{ gap: 12, alignItems: "center", flex: "none", width: 300 }}>
           <Button href="#pricing" variant="secondary" style={{ padding: [10, 16], width: 124 }}>
             Sign in
           </Button>
