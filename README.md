@@ -12,11 +12,9 @@ text written for this template.
 
 ## Screenshot
 
-<!-- SCREENSHOT: the parent agent adds a screenshot of output/landing.html here -->
-![Relay landing page — screenshot to be added](docs/screenshot.png)
+![Relay — product launch landing page, rendered in full](docs/screenshot.png)
 
-*(Screenshot placeholder — render `output/landing.html` in a browser and save
-a capture as `docs/screenshot.png`.)*
+*Full-page render of `output/landing.html` at 1120px width: nav, hero with product-dashboard mockup, social proof, features, how it works, testimonial, pricing, final CTA and footer.*
 
 ## What the page includes
 
