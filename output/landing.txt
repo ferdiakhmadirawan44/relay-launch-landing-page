@@ -1,0 +1,309 @@
+[Relay logo]
+
+Relay
+
+Product (#features) How it works (#how-it-works) Pricing (#pricing) Customers (#customers)
+
+Sign in (#pricing)
+
+Start free (#trial)
+
+New · AI triage is live for every workspace
+
+EVERY CUSTOMER CONVERSATION, TURNED INTO YOUR NEXT RELEASE.
+
+Relay collects feedback from email, chat, calls and social, triages it with AI, and turns the loudest signals into a roadmap your whole team can rally behind.
+
+Start free trial (#trial)
+
+Watch the demo (#how-it-works)
+
+Free 14-day trial · No credit card required · Cancel anytime
+
+[Window controls]
+
+app.relay.io/themes
+
+Themes
+
+Inbox
+
+Roadmap
+
+Changelog
+
+Insights
+
+128
+
+Open themes
+
+1,842
+
+Votes this week
+
+96%
+
+Shipped
+
+Top requested themes this month
+
+Export
+
+SSO
+
+Mobile
+
+API
+
+Dark mode
+
+Export
+
+“One-click CSV export for reports”
+
+214 votes
+
+SSO
+
+“SAML login for our enterprise plan”
+
+186 votes
+
+Mobile
+
+“Offline mode for the iOS app”
+
+149 votes
+
+Trusted by product teams at
+
+Northwind HELIOS Vantage Copperleaf Fieldstone Brightline
+
+WHY RELAY
+
+EVERYTHING FEEDBACK NEEDS, NOTHING IT DOESN’T
+
+Six tools that replace the spreadsheet, the shared inbox and the quarterly guessing game.
+
+[AI triage]
+
+AI triage, in seconds
+
+Relay reads every new message, tags the topic, scores the sentiment and groups duplicates — so a thousand voices become ten clear themes.
+
+[Voting]
+
+Roadmap voting that counts
+
+Customers vote on what matters to them, and every vote is weighted by plan, usage and churn risk — not just whoever shouts loudest.
+
+[Changelog]
+
+A changelog that writes itself
+
+Ship a feature and Relay drafts the announcement from the closed feedback, ready to send to everyone who asked for it.
+
+[Integrations]
+
+Plugs into your stack
+
+Native two-way sync with Slack, Intercom, Zendesk, HubSpot, Jira and Linear. Feedback flows in; status flows back out.
+
+[Sentiment]
+
+Sentiment you can track
+
+Watch satisfaction drift by segment, plan or feature area, and get alerted the moment a key account turns unhappy.
+
+[Alerts]
+
+Alerts before churn
+
+When a high-value account files three complaints in a week, Relay pings the owner in Slack — before the renewal call, not after it.
+
+HOW IT WORKS
+
+FROM INBOX CHAOS TO ROADMAP IN THREE STEPS
+
+01
+
+Connect your channels
+
+Plug in email, chat, your help desk and social inboxes. Relay starts importing history immediately — no migration project.
+
+02
+
+Let AI sort the noise
+
+Duplicates merge, topics cluster and sentiment scores land automatically. You review themes, not a thousand tickets.
+
+03
+
+Ship, then close the loop
+
+Promote a theme to the roadmap, ship it, and Relay tells every customer who asked — with the announcement already drafted.
+
+[Quote]
+
+“We stopped guessing what to build. Relay showed us that 40% of support tickets were one missing export button — we shipped it in a week, and churn in that segment fell by a third.”
+
+MC
+
+Maya Chen
+
+Head of Product, Northwind
+
+PRICING
+
+SIMPLE PRICING THAT SCALES WITH YOUR TEAM
+
+Start free. Upgrade when feedback becomes your roadmap.
+
+Starter
+
+$0
+
+forever
+
+For side projects finding their first users.
+
+[Included]
+
+Up to 200 feedback items / mo
+
+[Included]
+
+1 inbox connection
+
+[Included]
+
+Public roadmap board
+
+[Included]
+
+Community support
+
+Start for free (#trial)
+
+Growth
+
+Most popular
+
+$29
+
+per seat / mo
+
+For teams turning feedback into a roadmap.
+
+[Included]
+
+Unlimited feedback items
+
+[Included]
+
+AI triage + sentiment tracking
+
+[Included]
+
+Voting, changelog & announcements
+
+[Included]
+
+Slack, Intercom, Jira & Linear sync
+
+[Included]
+
+Priority support
+
+Start 14-day trial (#trial)
+
+Scale
+
+$79
+
+per seat / mo
+
+For companies where feedback is a system.
+
+[Included]
+
+Everything in Growth
+
+[Included]
+
+SSO / SAML & audit log
+
+[Included]
+
+Custom data retention
+
+[Included]
+
+Dedicated success manager
+
+[Included]
+
+99.9% uptime SLA
+
+Talk to sales (#trial)
+
+All paid plans include a 14-day free trial. Prices in USD, taxes may apply.
+
+START HEARING YOUR CUSTOMERS TODAY
+
+Connect your first inbox in five minutes. Your roadmap will never be a guess again.
+
+Start free trial (#trial)
+
+Free 14-day trial · No credit card required
+
+[Relay logo]
+
+Relay
+
+The feedback-to-roadmap workspace. Built for teams that ship what customers actually ask for.
+
+[X] (https://x.com)
+
+[LinkedIn] (https://linkedin.com)
+
+[GitHub] (https://github.com)
+
+[YouTube] (https://youtube.com)
+
+Product
+
+Features (#features)
+
+Pricing (#pricing)
+
+Changelog (#changelog)
+
+Roadmap (#roadmap)
+
+Company
+
+About (#about)
+
+Careers (#careers)
+
+Blog (#blog)
+
+Contact (#contact)
+
+Resources
+
+Documentation (#docs)
+
+Help center (#help)
+
+API reference (#api)
+
+Status (#status)
+
+---
+
+© 2026 Relay Labs, Inc. All rights reserved.
+
+Privacy (#privacy) Terms (#terms)
